@@ -1,0 +1,8 @@
+{
+  "name": "webApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "fe192f0d"
+}
